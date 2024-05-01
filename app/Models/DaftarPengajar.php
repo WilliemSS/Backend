@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class DaftarPengajar extends Model
 {
-    protected $table='DaftarPengajar';
+    protected $table='daftar_pengajar';
     protected $primaryKey='Id_pengajar';
     public $incrementing=true;
 
